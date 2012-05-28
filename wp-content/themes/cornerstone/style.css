@@ -1,0 +1,18 @@
+/*   
+Theme Name: Cornerstone
+Theme URI: http://www.bluehatdesign.com;
+Description: Child theme for boilerplate.
+Author: Jack Wheeer
+Author URI: http://www.bluehatdesign.com
+Template: html5-boilerplate
+Version: 0.1
+Tags: Cornerstone
+*/
+
+@import url("../html5-boilerplate/style.css");
+
+@import url("css/screen.css");
+
+
+
+
